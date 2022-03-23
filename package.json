@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gbondos/nodeapp3/issues"
   },
-  "homepage": "https://github.com/gbondos/nodeapp3#readme"
+  "homepage": "https://github.com/gbondos/nodeapp3#readme",
+  "engines": {
+    "node": "14.x"
+  }
 }
